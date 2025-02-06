@@ -1,0 +1,12 @@
+
+T
+java:S1854	"7Remove this useless assignment to local variable "dec".(ô¢å©8ßÚðºÍ2
+W
+java:S1854":Remove this useless assignment to local variable "letter".(å·¶ê8àÚðºÍ2
+H
+java:S1481"+Remove this unused "letter" local variable.(å·¶ê8àÚðºÍ2
+E
+java:S1481	"(Remove this unused "dec" local variable.(ô¢å©8àÚðºÍ2
+M
+java:S1481
+"+Remove this unused "mycard" local variable.(ÓÔ†ªúÿÿÿÿ8àÚðºÍ2

@@ -1,0 +1,11 @@
+
+y
+java:S1854	"6Remove this useless assignment to local variable "s3".(¼ÓŒ”8ð‡¤àÍ2J$47742c93-a695-4d66-987c-6a3639eb57e8
+~
+java:S1854"6Remove this useless assignment to local variable "s2".(¯ÛÏ£üÿÿÿÿ8ñ‡¤àÍ2J$3e386662-ec7c-4121-aa11-77645ac18f6a
+~	java:S125"<This block of commented-out lines of code should be removed.(ÄËˆý8ñ‡¤àÍ2J$b9509b4b-14c4-4268-9d7a-037db7adac47
+o
+java:S1481"'Remove this unused "s2" local variable.(¯ÛÏ£üÿÿÿÿ8ñ‡¤àÍ2J$d4c8e972-8e29-483a-9715-a873fc7ffdb4
+j
+java:S1481	"'Remove this unused "s3" local variable.(¼ÓŒ”8ò‡¤àÍ2J$103787d0-2923-42cf-9018-7403a16c2c50
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(è‡Ó¤úÿÿÿÿ8ò‡¤àÍ2J$ac105817-63aa-47a7-806e-397165b58838
