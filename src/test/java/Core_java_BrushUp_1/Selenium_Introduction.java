@@ -1,7 +1,7 @@
+package Core_java_BrushUp_1;
+
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Selenium_Introduction {
 
@@ -9,10 +9,12 @@ public class Selenium_Introduction {
         // chrome
       //  System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
        // WebDriver driver = new ChromeDriver();
-      //  WebDriver driver = new FirefoxDriver();
+
         // firefox launch
         //geckodriver
+        //  WebDriver driver = new FirefoxDriver();
        // System.setProperty("webdriver.gecko.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\geckodriver.exe");
+        //  WebDriver driver = new FirefoxDriver();
 
         // edge browser
         System.setProperty("webdriver.edge.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\msedgedriver.exe");

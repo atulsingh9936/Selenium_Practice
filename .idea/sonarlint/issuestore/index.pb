@@ -13,3 +13,11 @@ c
 3src/test/java/Core_java_BrushUp_1/Methods_demo.java,4\f\4f146936c723d0cc15a6f5a3b06964c6917296d7
 e
 5src/test/java/Core_java_BrushUp_1/Methods_demo_2.java,e\3\e30f8df7bb57a02223a57fcc6d3f91502a47ebdc
+_
+/src/test/java/Core_java_BrushUp_1/Locators.java,9\2\9294bf423aada0f1d75ddc999271dab6c85539b4
+l
+<src/test/java/Core_java_BrushUp_1/Selenium_Introduction.java,6\9\69d46c4a2b4a6c90f9ef537be07e13251ac2be3a
+`
+0src/test/java/Core_java_BrushUp_1/Locators2.java,8\f\8f7828ec777290ef4e21026797b7a452b43b6b81
+`
+0src/test/java/Core_java_BrushUp_1/Locators3.java,c\c\cc766b335a684d28c59c2d8673d05c5bd82950fb
