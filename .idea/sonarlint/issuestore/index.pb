@@ -21,3 +21,13 @@ l
 0src/test/java/Core_java_BrushUp_1/Locators2.java,8\f\8f7828ec777290ef4e21026797b7a452b43b6b81
 `
 0src/test/java/Core_java_BrushUp_1/Locators3.java,c\c\cc766b335a684d28c59c2d8673d05c5bd82950fb
+f
+6src/test/java/Core_java_BrushUp_1/BrowserActivity.java,6\5\65197f3e8db84bf9a84fb7eb84cdfa1289f52dfe
+f
+6src/test/java/Core_java_BrushUp_1/Static_dropdown.java,6\c\6cca0869192d2082d666c76883877aad0d864662
+g
+7src/test/java/Core_java_BrushUp_1/Updated_dropdown.java,2\4\248209cbb54af14f46f8157b0e2ca5d281403f38
+g
+7src/test/java/Core_java_BrushUp_1/Dynamic_dropdown.java,5\1\51a7b665e504e77fba24bc95b7ec5662d303d09e
+n
+>src/test/java/Core_java_BrushUp_1/AutoSuggestive_Dropdown.java,9\4\949e8c5d176a9f95cba120ec75100a27b673f952
