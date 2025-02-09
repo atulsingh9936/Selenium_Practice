@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-X
-(src/test/java/Selenium_Introduction.java,a\9\a9c5a6cf2e79f79248f58707bf30a3b961b85e84
 \
 ,src/test/java/Core_java_BrushUp_1/Java1.java,3\0\309b38941e9eed3ec84b3061fa0e43280ac80ef8
 \
@@ -33,3 +31,7 @@ n
 >src/test/java/Core_java_BrushUp_1/AutoSuggestive_Dropdown.java,9\4\949e8c5d176a9f95cba120ec75100a27b673f952
 Z
 *src/test/java/Core_java_BrushUp_1/E2E.java,5\6\56b2f7340f429ed73c4187c51f471b4cdabd83a4
+b
+2src/test/java/Core_java_BrushUp_1/Java_alerts.java,6\f\6fd0f899737696dcc9753d7e4cf48923d051d232
+X
+(src/test/java/E_commerce/E_commerce.java,3\4\3423aea641237a7ee7efdf40ca54680b90acf921
