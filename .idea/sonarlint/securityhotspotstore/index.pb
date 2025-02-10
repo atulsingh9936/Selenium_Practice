@@ -35,3 +35,5 @@ b
 2src/test/java/Core_java_BrushUp_1/Java_alerts.java,6\f\6fd0f899737696dcc9753d7e4cf48923d051d232
 X
 (src/test/java/E_commerce/E_commerce.java,3\4\3423aea641237a7ee7efdf40ca54680b90acf921
+e
+5src/test/java/Core_java_BrushUp_1/wait_Ecommerce.java,4\0\40032e10840d4e7b75329ac032a32d02a29a4444
