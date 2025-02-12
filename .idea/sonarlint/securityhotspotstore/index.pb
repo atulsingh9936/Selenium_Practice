@@ -37,3 +37,11 @@ X
 (src/test/java/E_commerce/E_commerce.java,3\4\3423aea641237a7ee7efdf40ca54680b90acf921
 e
 5src/test/java/Core_java_BrushUp_1/wait_Ecommerce.java,4\0\40032e10840d4e7b75329ac032a32d02a29a4444
+f
+6src/test/java/Core_java_BrushUp_1/Fluentwait_test.java,0\0\001b61d175fc6cfba1f9d70d99e0e131b44acd57
+]
+-src/test/java/Actions_class/Actions_demo.java,5\7\575851d152514fb03a400e404c505bf965050185
+]
+-src/test/java/Actions_class/Windowhandle.java,f\2\f27f9be4c35c68085245af772ef38c5eff52c44c
+Z
+*src/test/java/Actions_class/frametest.java,c\4\c4d3fd2ba0730ed6623fcdf3efcf04df895559ba
