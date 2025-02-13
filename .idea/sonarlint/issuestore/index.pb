@@ -45,3 +45,7 @@ f
 -src/test/java/Actions_class/Windowhandle.java,f\2\f27f9be4c35c68085245af772ef38c5eff52c44c
 Z
 *src/test/java/Actions_class/frametest.java,c\4\c4d3fd2ba0730ed6623fcdf3efcf04df895559ba
+N
+src/test/java/Scope/Scope.java,a\d\add7a373e62044ba73b11221e30810549ee128ec
+X
+(src/test/java/CalendarUI/Datepicker.java,f\d\fd11370b68090c66568d76734259743012a51f25
