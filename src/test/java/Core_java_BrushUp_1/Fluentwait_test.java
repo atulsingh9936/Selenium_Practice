@@ -15,7 +15,7 @@ public class Fluentwait_test {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
-        driver.get("https://the-internet.herokuapp.com/dynamic_loading/1");
+        driver.get("https://the-Finternet.herokuapp.com/dynamic_loading/1");
         driver.findElement(By.cssSelector("[id='start'] button")).click();
 
         Wait<WebDriver> wait = new FluentWait<WebDriver>(driver).withTimeout(Duration.ofSeconds(30))

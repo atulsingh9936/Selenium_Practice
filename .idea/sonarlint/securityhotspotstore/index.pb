@@ -49,3 +49,13 @@ N
 src/test/java/Scope/Scope.java,a\d\add7a373e62044ba73b11221e30810549ee128ec
 X
 (src/test/java/CalendarUI/Datepicker.java,f\d\fd11370b68090c66568d76734259743012a51f25
+_
+/src/test/java/JavascriptExecutor/Scrolling.java,a\a\aa5c32162fad1a057b91d67733c805962e2b5735
+R
+"src/test/java/Scope/SSL_check.java,d\d\ddb235a75862ceabd2355afc08e5ef9421f22ac5
+V
+&src/test/java/Scope/miscellaneous.java,2\c\2c26b5b8ad8f64a136b322758c9001090845ce33
+T
+$src/test/java/Scope/BrokenLinks.java,8\c\8c988cd89c7bd27038a9c1a5e495333eb4534c6d
+S
+#src/test/java/Scope/Brokenlink.java,a\4\a4a4b387a8751a36d328a746097366c12b8b8c4d
