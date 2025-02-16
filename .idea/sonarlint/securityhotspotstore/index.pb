@@ -59,3 +59,11 @@ T
 $src/test/java/Scope/BrokenLinks.java,8\c\8c988cd89c7bd27038a9c1a5e495333eb4534c6d
 S
 #src/test/java/Scope/Brokenlink.java,a\4\a4a4b387a8751a36d328a746097366c12b8b8c4d
+Y
+)src/test/java/Assignment1_checkboxes.java,c\7\c711a4da1c946a9c2cefc4677483ac80d8f9bd4f
+O
+src/test/java/Assignment_2.java,1\3\133061b152b2978c4642be4454735f8500c48921
+U
+%src/test/java/Scope/Assignment_3.java,a\d\ad62db8e8fa196604e2043f3c2db13a4dba84208
+N
+src/test/java/Assignment3.java,1\3\13617aa8f12310d4c43c335496d29becd7a80957

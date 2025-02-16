@@ -14,7 +14,7 @@ public class Actions_demo {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20)); // for handling captca
         driver.get("https://www.amazon.com/");
         Actions a = new Actions(driver);
         WebElement move = driver.findElement(By.cssSelector("#nav-link-accountList"));

@@ -31,7 +31,7 @@ public class Datepicker {
          System.out.println(  actualist.get(i).getDomAttribute("Value"));
          Assert.assertEquals(actualist.get(i).getDomAttribute("Value"),expectedList[i]);
      }
-     driver.close();
+
 
 
     }

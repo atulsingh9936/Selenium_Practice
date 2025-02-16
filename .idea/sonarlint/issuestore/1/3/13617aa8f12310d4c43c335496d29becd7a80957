@@ -1,0 +1,8 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "wait1".(ÌŸ÷≈8Õ≈ÏÔ–2J$39723595-b78d-4037-ba64-b80990f65c82
+π
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(∫ô⁄78Õ≈ÏÔ–2J$000bcd75-f7eb-4ef7-bedf-6e3e6be5b574
+m
+java:S1481"*Remove this unused "wait1" local variable.(ÌŸ÷≈8Œ≈ÏÔ–2J$2dcc83f9-15db-49c4-bddb-61cf09a8dbf7
+}	java:S125"<This block of commented-out lines of code should be removed.(ü££8Œ≈ÏÔ–2J$9980b721-b4af-410c-b58e-a178da71387a

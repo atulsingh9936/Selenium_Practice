@@ -4,11 +4,14 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.time.Duration;
+
 public class Java_alerts {
     public static void main(String[] args) {
         String text="Rahul";
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+       // driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20000));
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
         driver.findElement(By.id("name")).sendKeys(text);
         driver.findElement(By.id("alertbtn")).click();

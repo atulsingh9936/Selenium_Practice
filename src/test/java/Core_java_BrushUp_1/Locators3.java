@@ -7,8 +7,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Locators3 {
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
-       WebDriver driver = new ChromeDriver();
+            System.setProperty("webdriver.chrome.driver", "C:\\Users\\Atul\\OneDrive\\Documents\\chromedriver-win64\\chromedriver.exe");
+           WebDriver driver = new ChromeDriver();
        // sibling- child to parent traverse
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
         System.out.println(   driver.findElement(By.xpath("//header/div/button[1]/following-sibling::button[1]")).getText());
