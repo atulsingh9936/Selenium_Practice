@@ -71,3 +71,9 @@ O
 src/test/java/Assignment_4.java,9\8\98f9e528ba727cdeadd49e65dfaab156eb358d86
 N
 src/test/java/Assignment5.java,4\1\4163be048811a4a2705592b2e3fa76d5e71212d4
+O
+src/test/java/Assignment_6.java,0\f\0fcbe74689e4544dbb0f1332d5de4933e227a386
+X
+(src/test/java/Assignment_7_webtable.java,9\8\98760f00acb01fe64ad521b070156c25db36d12d
+O
+src/test/java/Assignment_8.java,e\c\ec4da16e9df98edd13867f86097e9edbb0598fe1
