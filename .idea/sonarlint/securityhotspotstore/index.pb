@@ -109,12 +109,6 @@ Z
 *src/test/java/TestNgTutorial/Listener.java,a\4\a45ea1290e2768897a7f93f11d69276d5c621f58
 Q
 !test-output/emailable-report.html,c\0\c049dbb431f8ff7e9fda71897548a9eaa626ae36
-g
-7src/test/java/Core_java_BrushUp_1/Inheritance_java.java,1\2\12c91310d24e81ad1a7a76268152d93951859788
-c
-3src/test/java/Core_java_BrushUp_1/Inheritance2.java,d\0\d06acb1563d9c8ef4629a042995b30278ec4949b
-c
-3src/test/java/Core_java_BrushUp_1/Inheritance3.java,7\e\7e33221fc5bf88f9bd17eb20787e57f62d135edd
 Y
 )src/test/java/Core_java_BrushUp_1/Ps.java,0\c\0c933ec1ced1defc08515c17703c24dc5390f986
 Z
@@ -123,3 +117,5 @@ Z
 *src/test/java/Core_java_BrushUp_1/PS2.java,5\9\59810a44fc8d2fbd903767649e15fc4d073c359d
 Z
 *src/test/java/Core_java_BrushUp_1/PS3.java,e\d\ed9decd02e7e13a2d601cba909547ba3a829cc9f
+b
+2src/test/java/Download_Upload/Upload_Download.java,d\7\d76fcb4e179695dfeda4843641aa0836b3ef8566

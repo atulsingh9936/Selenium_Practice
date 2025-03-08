@@ -1,7 +1,7 @@
 
 Æ
-java:S3577"‚Rename class "Ps1" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ñ¬»ª8ÍÒêÈÒ2J$6cfcd94d-b3e3-4c38-9639-a35372832c93
+java:S3577"‚Rename class "Ps1" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ñ¬»ª8ÍÒêÈÒ2J$fbf51d4b-0326-41ea-a213-f97ecec06646
 }
-java:S1854"5Remove this useless assignment to local variable "a".(½Êşüÿÿÿÿ8¯„¢ÉÒ2J$958b90e1-768d-451c-950d-1dbbfb2c49f3
+java:S1854"5Remove this useless assignment to local variable "a".(½Êşüÿÿÿÿ8¯„¢ÉÒ2J$ffd3aaed-0e71-48a1-83d1-4abb7f37e9dd
 n
-java:S1481"&Remove this unused "a" local variable.(½Êşüÿÿÿÿ8²„¢ÉÒ2J$37dd9b67-d6fd-4121-9eec-e2e372af01ee
+java:S1481"&Remove this unused "a" local variable.(½Êşüÿÿÿÿ8²„¢ÉÒ2J$9bead384-e741-468b-8ef1-4dc22e06858c
